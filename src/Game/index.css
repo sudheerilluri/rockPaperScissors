@@ -1,0 +1,9 @@
+.score-container {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+}
+.scoreval {
+  font-family: 'Roboto';
+}
